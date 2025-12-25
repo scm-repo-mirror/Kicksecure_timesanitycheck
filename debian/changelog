@@ -1,3 +1,9 @@
+timesanitycheck (3:8.4-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Thu, 25 Dec 2025 16:01:16 +0000
+
 timesanitycheck (3:8.3-1) unstable; urgency=medium
 
   * New upstream version (local package).
