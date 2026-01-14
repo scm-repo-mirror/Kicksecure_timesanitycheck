@@ -1,3 +1,15 @@
+commit a566d9f02936eb07235ea17c1cd852955c97f5e1
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Jan 13 15:16:58 2026 -0500
+
+    update minimum_unixtime
+
+commit cfc431a1e024eaf93b60843ca15a2bf4438015eb
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Dec 25 16:01:16 2025 +0000
+
+    bumped changelog version
+
 commit 3d0649739099be4dda4ce830514e787795ca1eb7
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Thu Dec 25 10:59:47 2025 -0500
